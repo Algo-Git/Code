@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 // [골드2] 청소년 상어
-// 빡빡한 구현.. & dfs
+// 빡빡한 구현 & dfs
 // 자리바꾸기(시뮬레이션) 진짜헷갈림
 // 주의할 점은 dfs호출할 때마다 새로 map을 만들어줘야한다
 public class BOJ_19236_kyj {

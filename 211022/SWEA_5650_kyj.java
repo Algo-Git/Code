@@ -1,12 +1,10 @@
-package practice;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class swExpert_5650 {
+public class SWEA_5650_kyj {
 	static int N;
 	static int[][] map;
 	static int[] dx = { -1, 1, 0, 0 }; // 상0하1좌2우3

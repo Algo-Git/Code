@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 //[골드5] 테트로 미노
-public class baekjoon_14500 {// ㅡ ㅁ ㄴ N ㅜ =>2,1,8,4,4
+public class BOJ_14500_kyj {// ㅡ ㅁ ㄴ N ㅜ =>2,1,8,4,4
 	static int[][] blockX = { { 0, 0, 0, 0 }, { 0, 1, 0, 1 }, { 0, 1, 2, 2 }, { 0, 1, 1, 2 }, { 0, 0, 1, 0 } };
 	static int[][] blockY = { { 0, 1, 2, 3 }, { 0, 0, 1, 1 }, { 0, 0, 0, 1 }, { 0, 0, 1, 1 }, { 0, 1, 1, 2 } };
 	static int[] maxX = { 0, 1, 2, 2, 1 };

@@ -13,8 +13,8 @@ import java.util.StringTokenizer;
 // [골드2] 다리만들기 2
 // 1. 섬의 개수 구하기
 // 2. 섬사이에 연결할 수 있는지, 길이 구하기
-// 3. 모든 섬이 연결되는 최소 비용 구하기 - 플로이드 x 
-public class baekjoon_17472 {
+// 3. 모든 섬이 연결되는 최소 비용 구하기 - MST
+public class BOJ_17472_kyj {
 	static int N, M, islandCnt;
 	static int[][] map;
 	static int[] dx = { -1, 1, 0, 0 };

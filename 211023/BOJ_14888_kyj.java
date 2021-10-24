@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 //[실버1] 연산자 끼워넣기 2048개의 조합이라서 bf 쓸수있음
-public class baekjoon_14888 {
+public class BOJ_14888_kyj {
 	static int N;
 	static int[] nums;
 	static int[] oper;

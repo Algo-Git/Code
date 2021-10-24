@@ -10,6 +10,11 @@ https://www.acmicpc.net/problem/14501
 풀이방법
 김예진: DP
 
+3.[백준/실버1] 연산자 끼워넣기
+https://www.acmicpc.net/problem/14888
+풀이방법
+김예진: BFS + 순열
+
 
 참여자: 김예진
 

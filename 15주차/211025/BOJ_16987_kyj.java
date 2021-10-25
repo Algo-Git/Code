@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 // [실버1] 계란으로 계란치기
 // 완전탐색 dfs
-public class baekjoon_16987 {
+public class BOJ_16987_kyj {
 	static int N;
 	static int Max;
 	static int[] weight;

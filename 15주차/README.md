@@ -3,4 +3,4 @@
 
 |날짜|출처|문제 번호|문제 이름|난이도|
 |:---|:---|:---|:---|:---| 
-|25(월)|[백준](https://www.acmicpc.net/)|[16987](https://www.acmicpc.net/problem/16987)|계란으로 계란치기|Silver 1|
+|21/10/25(월)|[백준](https://www.acmicpc.net/)|[16987](https://www.acmicpc.net/problem/16987)|계란으로 계란치기|Silver 1|

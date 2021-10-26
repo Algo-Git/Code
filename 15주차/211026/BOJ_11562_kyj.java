@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 // [골드4] 백양로 브레이크
+// bfs(pq 이용) 시간초과 => 플로이드 와샬
 public class BOJ_11562_kyj {
 	static int n, m;
 	static int[][] adjMat;

@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 // [골드4] 백양로 브레이크
-public class baekjoon_11562_retry {
+public class BOJ_11562_kyj {
 	static int n, m;
 	static int[][] adjMat;
 	static int s, e;

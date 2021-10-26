@@ -4,6 +4,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
+//질문마다 PriorityQueue를 써서 bfs, dfs를 사용했더니 틀렸거나 시간초과 발생 => 플로이드 워셜로 모든 경로의 정보 넣어두고 질문 받기
 public class BOJ_11562_kdy {// BOJ 11562. 백양로 브레이크
 
 	public static void main(String[] args) throws IOException {

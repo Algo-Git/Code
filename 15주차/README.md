@@ -5,4 +5,4 @@
 |:---|:---|:---|:---|:---| 
 |[21/10/25(월)](https://github.com/Algo-Git/Code/tree/main/15%EC%A3%BC%EC%B0%A8/211025)|[백준](https://www.acmicpc.net/)|[16987](https://www.acmicpc.net/problem/16987)|계란으로 계란치기|실버1|
 |[21/10/26(화)](https://github.com/Algo-Git/Code/tree/main/15%EC%A3%BC%EC%B0%A8/211026)|[백준](https://www.acmicpc.net/)|[11452](https://www.acmicpc.net/problem/11562)|백양로 브레이크|골드4|
-|[21/10/27(수)](https://github.com/Algo-Git/Code/tree/main/15%EC%A3%BC%EC%B0%A8/211027)|[백준](https://www.acmicpc.net/)|[11452](https://www.acmicpc.net/problem/14719)|빗물|골드5|
+|[21/10/27(수)](https://github.com/Algo-Git/Code/tree/main/15%EC%A3%BC%EC%B0%A8/211027)|[백준](https://www.acmicpc.net/)|[14719](https://www.acmicpc.net/problem/14719)|빗물|골드5|

@@ -28,8 +28,9 @@ MST는 간선에 가중치를 고려하여 최소 비용의 스패닝 트리를 
 ```
 
 ```
-binary heap으로 구현했을 경우 : O(ElogV)
-unsorted array로 구현했을 경우 : O(V^2)
+시간 복잡도
+  binary heap으로 구현했을 경우 : O(ElogV)
+  unsorted array로 구현했을 경우 : O(V^2)
 ```
 
 
@@ -50,5 +51,6 @@ unsorted array로 구현했을 경우 : O(V^2)
 ```
 
 ```
-시간 복잡도 : O(ElogV)
+시간 복잡도
+  O(ElogV)
 ```

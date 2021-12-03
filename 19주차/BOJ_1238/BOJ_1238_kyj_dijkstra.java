@@ -1,5 +1,3 @@
-package practice;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -7,7 +5,7 @@ import java.util.StringTokenizer;
 
 // x에서 시작해서 정방향 길 따라가면서 집에 돌아가는 최솟값
 // x에서 시작해서 역방향 길 따라가면서 집으로 가는 최솟값
-public class baekjoon_1238_다익스트라 {
+public class BOJ_1238_kyj_dijkstra {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine());

@@ -15,7 +15,7 @@ import java.util.StringTokenizer;
 // 3. 1번 반복
 
 // 시간: 1176ms => 느린듯
-public class baekjoon_1005 {
+public class BOJ_1005_kyj {
 	static int Min;
 	static int N; // 건물의 개수
 	static int[] times; // 걸리는 시간들

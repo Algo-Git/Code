@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.StringTokenizer;
 // [골드4] 해킹
 // 그래프 + 다익스트라 알고리즘
-public class baekjoon_10282 {
+public class BOJ_10282_kyj {
 	static final int INF = 10000000;
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class N1005 {// BOJ 1005. ACM Craft
+public class BOJ_1005_kdy {// BOJ 1005. ACM Craft
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

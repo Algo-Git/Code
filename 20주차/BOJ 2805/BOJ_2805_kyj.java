@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 // binary search
 // 자료형 주의
 // 기저조건 주의
-public class baekjoon_2805 {
+public class BOJ_2805_kyj {
 	static long M;
 	static int N;
 	static long[] height;

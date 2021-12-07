@@ -6,3 +6,6 @@
 | [백준](https://www.acmicpc.net/) |  [1238](https://www.acmicpc.net/problem/1238)   |    파티     | 골드4  |
 | [백준](https://www.acmicpc.net/) |  [2056](https://www.acmicpc.net/problem/2056)   |    작업     | 골드3  |
 | [백준](https://www.acmicpc.net/) | [15685 ](https://www.acmicpc.net/problem/15685) | 드래곤 커브 | 골드4  |
+
+YejinKim 정리
+- [그래프에서 최소 비용 문제](https://branched-prawn-1fd.notion.site/ecdabf733d1b460da3729293a9b0595d)

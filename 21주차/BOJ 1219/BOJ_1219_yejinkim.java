@@ -8,7 +8,8 @@ import java.util.StringTokenizer;
 
 // [골드1] 오민식의 고민
 // 벨만 포드 문제
-public class BOJ_1219_yejinkim {
+// + DFS
+public class Main {
 	static int N, M, end;
 	static Data[] edges;
 	static int[] money;
@@ -82,7 +83,7 @@ public class BOJ_1219_yejinkim {
 					if (i == N - 1) {
 						// data.from에서 연결된 것들 중에 end가 있는가..?
 						visited = new boolean[N];
-						if (dfs(data.from)) {
+						if (bfs(data.from)) {
 							return true;
 						}
 					}
@@ -94,15 +95,15 @@ public class BOJ_1219_yejinkim {
 
 	// bfs는 왜 안될까..
 	private static boolean bfs(int from) {
+		if(from == end) return true; // 예제 4번
 		Queue<Integer> q = new LinkedList<Integer>();
 		q.offer(from);
 		visited[from] = true;
 
 		while (!q.isEmpty()) {
-			System.out.println(q.toString());
 			int cur = q.poll();
 			for (Data edge : edges) {
-				// 
+				
 				if (edge.from == cur && !visited[edge.to]){
 					if(edge.to == end) {
 						// 서클 존재하지만 도착 가능 => GEE

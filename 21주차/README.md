@@ -12,7 +12,7 @@
 
 yejinKim 정리
 
-- [오민식의 고민(아직 정리 중)](https://branched-prawn-1fd.notion.site/1219-ad7b7693b62e4121baa3b4ae55af86ad) 
+- [오민식의 고민](https://branched-prawn-1fd.notion.site/1219-ad7b7693b62e4121baa3b4ae55af86ad) 
 - [구간 합 구하기 5](https://branched-prawn-1fd.notion.site/11660-14e84685f30149688807a2fcc78ce1ae)
 - [홀수 홀릭 호석](https://branched-prawn-1fd.notion.site/20164-3e10afdd371d4240b0480c38c2df4bcb)
 

@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class N11660 {// BOJ 11660. 구간 합 구하기 5
+public class BOJ_11660_kdy {// BOJ 11660. 구간 합 구하기 5
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

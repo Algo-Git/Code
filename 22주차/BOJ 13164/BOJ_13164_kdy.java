@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class N13164 {// BOJ 13164. 행복유치원
+public class BOJ_13164_kdy {// BOJ 13164. 행복유치원
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

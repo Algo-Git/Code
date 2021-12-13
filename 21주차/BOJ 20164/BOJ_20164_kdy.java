@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class N20164 {// BOJ 20164. 홀수 홀릭 호석
+public class BOJ_20164_kdy {// BOJ 20164. 홀수 홀릭 호석
 
 	static int max, min;
 

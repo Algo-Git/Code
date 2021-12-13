@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class N1738 {// BOJ 1738. 골목길
+public class BOJ_1738_kdy {// BOJ 1738. 골목길
 
 	static int n, m, INF;
 	static ArrayList<Data>[] list;

@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class N1219 {// BOJ 1219. 오민식의 고민
+public class BOJ_1219_kdy {// BOJ 1219. 오민식의 고민
 
 	static int N, F, T, M;
 	static Data[] list;

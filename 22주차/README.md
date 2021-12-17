@@ -10,8 +10,9 @@
 ---
 
 yejinKim 정리
-- [골목길](https://branched-prawn-1fd.notion.site/1738-b279eba8c1c54d23a5f109b544e4930e)
-- [행복 유치원](https://branched-prawn-1fd.notion.site/13164-f8e7248896b742839da9ecd1f6657819)
+- [골목길](https://yejinny.notion.site/1738-b279eba8c1c54d23a5f109b544e4930e)
+- [행복 유치원](https://yejinny.notion.site/13164-f8e7248896b742839da9ecd1f6657819)
+- [마법사 상어와 복제]https://yejinny.notion.site/23290-ed214bfd1804412d95b06fdfd71a5d11
 
 
 ---

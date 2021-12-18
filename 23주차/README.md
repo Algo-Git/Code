@@ -12,6 +12,6 @@
 yejinKim 정리
 - [어항 정리](https://yejinny.notion.site/23291-db1c3d534fed4eabafa61b1557642651)
 - [계단 오르기](https://yejinny.notion.site/2579-8c1bc5d8900e40b794b7c38477248d8a)
-
+- [다단계 칫솔 판매](https://yejinny.notion.site/a481dd8286fe415290ad4163814dc281)
 
 ---

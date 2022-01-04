@@ -9,3 +9,5 @@
 
 ---
 
+yejinKim 풀이
+- [넴모넴모 (Easy)](https://yejinny.notion.site/14712-Easy-548d3208a3a54beda7ec15e186e74dc1)

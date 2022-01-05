@@ -11,3 +11,4 @@
 
 yejinKim 풀이
 - [넴모넴모 (Easy)](https://yejinny.notion.site/14712-Easy-548d3208a3a54beda7ec15e186e74dc1)
+- [수](https://yejinny.notion.site/22943-18c7b1245cfc4c61ac7835f7a57b35cd)

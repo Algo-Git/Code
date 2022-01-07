@@ -12,3 +12,4 @@
 yejinKim 풀이
 - [넴모넴모 (Easy)](https://yejinny.notion.site/14712-Easy-548d3208a3a54beda7ec15e186e74dc1)
 - [수](https://yejinny.notion.site/22943-18c7b1245cfc4c61ac7835f7a57b35cd)
+- [학교 탐방하기](https://yejinny.notion.site/3-13418-ddc7fd3ecc9640b9a99990a72f2a0768)

@@ -8,3 +8,8 @@
 | [백준](https://www.acmicpc.net/) | [19950](https://www.acmicpc.net/problem/19950) | 3차원 막대기 연결하기| 골드5 |
 
 ---
+
+
+김영훈 풀이
+- [DSLR](https://hoonycode.notion.site/DSLR-228c2dc978eb48d1b590af13d5234a09)
+- [3차원 막대기 연결하기](https://hoonycode.notion.site/3-4ef55c64c1a04e9a8c22198bc187cdf4)

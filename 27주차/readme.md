@@ -17,3 +17,7 @@
 yejinKim 풀이
 - [3차원 막대기 연결하기](https://yejinny.notion.site/19950-3-38038f7f546648fc9ad3000b12e1d7fb)
 - [DSLR](https://yejinny.notion.site/9019-DSLR-a5045cefdbd84a8a8953cc8ca7e8c0c9)
+
+김다예 풀이
+- [3차원 막대기 연결하기](https://tropical-couch-e39.notion.site/BOJ-19950-3-c4bca893b0e04a9f839c8b16c8918e40)
+- [DSLR](https://tropical-couch-e39.notion.site/BOJ-9019-DSLR-9f1656c4bf1f4c7da1fad048ed48d12e)

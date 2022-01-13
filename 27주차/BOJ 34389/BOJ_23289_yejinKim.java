@@ -1,5 +1,3 @@
-package practice;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -224,7 +222,7 @@ public class BOJ_23289_yejinKim {
                     }
 
                     for (int i = -1; i <= 1; i++) {
-                        if (x + i < 0 || x + i >= R || !v[x + i][y - 1]) continue;
+                        if (x + i < 0 || x + i >= R || !v[x + i][y + 1]) continue;
                         windAround(x + i, y + 1, d, step - 1);
                     }
                 }
@@ -274,7 +272,7 @@ public class BOJ_23289_yejinKim {
                     }
 
                     for (int i = -1; i <= 1; i++) {
-                        if (y + i < 0 || y + i >= R || !v[x - 1][y + i]) continue;
+                        if (y + i < 0 || y + i >= C || !v[x - 1][y + i]) continue;
                         windAround(x - 1, y + i, d, step - 1);
                     }
                 }
@@ -299,7 +297,7 @@ public class BOJ_23289_yejinKim {
                     }
 
                     for (int i = -1; i <= 1; i++) {
-                        if (y + i < 0 || y + i >= R || !v[x + 1][y + i]) continue;
+                        if (y + i < 0 || y + i >= C || !v[x + 1][y + i]) continue;
                         windAround(x + 1, y + i, d, step - 1);
                     }
                 }

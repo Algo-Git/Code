@@ -19,3 +19,5 @@ HoonyCode 풀이
 ---
 yejinKim 풀이
 - [보석 도둑](https://yejinny.notion.site/1202-ce446bc1653046cb9afcb67abb182d57)
+- [사회망 서비스](https://yejinny.notion.site/2533-SNS-92bf23aeb5ee4b66a63086c83af92a09)
+- [중성화 여부 파악하기](https://yejinny.notion.site/68710e2b0ce146588197421e21750d1b)

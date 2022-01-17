@@ -15,6 +15,7 @@
 HoonyCode 풀이  
 - 사회망 서비스 [보기](https://hoonycode.notion.site/ea81af5cd2af4c1f9c9cdf620ceedf3f)
 - 보석 도둑 [보기](https://hoonycode.notion.site/e1c6164926c94a088da052b510926c9c)
+- 중성화 여부 파악하기[보기](https://www.notion.so/hoonycode/401ca51a1568430fb38910cd4b1e6506)
 
 ---
 yejinKim 풀이

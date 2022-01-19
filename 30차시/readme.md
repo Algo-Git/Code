@@ -14,3 +14,6 @@ IP 주소 풀이방법 [보기](https://hoonycode.notion.site/IP-e067892d30ad4ea
 빙산 풀이방법 [보기](https://hoonycode.notion.site/4a5e0c6d1a6e40a989f1ea5b3dd482d9)
 
 
+
+yejinKim
+- [단체사진찍기](https://yejinny.notion.site/0cb30ab88945482dbd3cd61f0d893009)

@@ -11,5 +11,5 @@
 Hoony Code  
 - PPAP [보기](https://hoonycode.notion.site/PPAP-652d9575bbce44deaaa1822e4712e081)
 - 소트게임 [보기](https://hoonycode.notion.site/0e8d6c7322dd453d89e3ba4c41be664a)
-- 카카오머니 [보기] (https://hoonycode.notion.site/8386db04e0d4400993600992e129c349)
+- 카카오머니 [보기](https://hoonycode.notion.site/8386db04e0d4400993600992e129c349)
 

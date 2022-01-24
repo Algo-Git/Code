@@ -15,5 +15,5 @@ Hoony Code
 
 kdy
 소트 게임
-[카카오머니](https://tropical-couch-e39.notion.site/c12262545f02485e8ce00933dab2c777)
-[PPAP](https://tropical-couch-e39.notion.site/PPAP-7d12b4d0f9734282861891b037f78044)
+- [카카오머니](https://tropical-couch-e39.notion.site/c12262545f02485e8ce00933dab2c777)
+- [PPAP](https://tropical-couch-e39.notion.site/PPAP-7d12b4d0f9734282861891b037f78044)

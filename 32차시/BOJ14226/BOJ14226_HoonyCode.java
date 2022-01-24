@@ -1,82 +1,72 @@
+import java.io.BufferedReader;
 import java.io.IOException;
-import java.util.Arrays;
+import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.Scanner;
 
 public class BOJ14226 {
 
     /**
      * 2022-01-24 by 김영훈
-     *
+     * <p>
      * 문제이름 : 이모티콘
      * 설명 : 화면에 있는 이모티콘 복사 클립보드 저장
      * 클립보드에 있는 모든 이모티콘 화면에 붙여넣기
      * 화면에 있는 이모티콘 중 하나를 삭제한다.
      */
-    static int[] dp = new int[2000];
+    static boolean[][] v = new boolean[1001][1001];
     static int S;
 
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        S = sc.nextInt();
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        S = Integer.parseInt(br.readLine());
 
-        Arrays.fill(dp, Integer.MAX_VALUE);
         bfs();
     }
 
     private static void bfs() {
-        Queue<Pair> que = new LinkedList<>();
-        que.offer(new Pair(1, 0, 0));
+        Queue<Emoticon> que = new LinkedList<>();
+        que.offer(new Emoticon(0, 1, 0));
+        v[0][1] = true;
 
-        Pair cur;
-        while (!que.isEmpty()){
+        Emoticon cur;
+        while (!que.isEmpty()) {
             cur = que.poll();
 
-            if (cur.index == S){
-                System.out.println(cur.cnt);
+            if (cur.emoticon == S) {
+                System.out.println(cur.time);
                 return;
             }
 
-            int cnt = cur.cnt + 1;
+            //1. 이모티콘을 모두 복사해서 클립보드에 저장한다.
+            que.offer(new Emoticon(cur.emoticon, cur.emoticon, cur.time + 1));
 
-            // 삭제 부분
-            if (cur.index > 0){
-                if(dp[cur.index-1] >= cnt){
-                    dp[cur.index-1] = cnt;
-                    que.offer(new Pair(cur.index-1, cur.copy, cnt));
-                }
+            //2. 클립보드에 있는 이모티콘을 화면에 붙여넣기 한다
+            if (cur.clipboard != 0
+                    && cur.clipboard + cur.emoticon <= S
+                    && !v[cur.clipboard][cur.emoticon + cur.clipboard]) {
+                que.offer(new Emoticon(cur.clipboard, cur.emoticon + cur.clipboard, cur.time + 1));
+                v[cur.clipboard][cur.emoticon + cur.clipboard] = true;
             }
 
-
-            // 붙여넣기 부분
-            int copy = cur.index + cur.copy;
-            if (copy < 2000 && cur.copy != 0){
-                if (dp[copy] >= cnt){
-                    dp[copy] = cnt;
-                    que.offer(new Pair(copy, cur.copy, cnt));
-                }
-            }
-
-
-            // 저장 부분
-            if (cur.index != cur.copy){
-                que.offer(new Pair(cur.index, cur.index, cnt));
+            //3. 화면에 있는 이모티콘 중 하나를 삭제한다.
+            if (1 <= cur.emoticon && !v[cur.clipboard][cur.emoticon - 1]) {
+                que.offer(new Emoticon(cur.clipboard, cur.emoticon - 1, cur.time + 1));
+                v[cur.clipboard][cur.emoticon - 1] = true;
             }
 
         }
-
     }
 
-    static class Pair{
-        int index;
-        int copy; // 복사한 양
-        int cnt; //
+    static class Emoticon {
+        int clipboard; // 클립보드
+        int emoticon; // 앞에 있는 이모티콘
+        int time; // 시간
 
-        public Pair(int index, int copy, int cnt) {
-            this.index = index;
-            this.copy = copy;
-            this.cnt = cnt;
+        public Emoticon(int clipboard, int emoticon, int time) {
+            this.clipboard = clipboard;
+            this.emoticon = emoticon;
+            this.time = time;
         }
     }
 }

@@ -17,3 +17,7 @@ IP 주소 풀이방법 [보기](https://hoonycode.notion.site/IP-e067892d30ad4ea
 
 yejinKim
 - [단체사진찍기](https://yejinny.notion.site/0cb30ab88945482dbd3cd61f0d893009)
+
+다예
+[단체 사진 찍기](https://tropical-couch-e39.notion.site/d18385a9c8514eca8ffd41f6d4af4745)
+[빙산](https://tropical-couch-e39.notion.site/4d9a7ab4855640c48f851ddbae72668e)

@@ -13,3 +13,7 @@ Hoony Code
 - 소트게임 [보기](https://hoonycode.notion.site/0e8d6c7322dd453d89e3ba4c41be664a)
 - 카카오머니 [보기](https://hoonycode.notion.site/8386db04e0d4400993600992e129c349)
 
+kdy
+소트 게임
+[카카오머니](https://tropical-couch-e39.notion.site/c12262545f02485e8ce00933dab2c777)
+[PPAP](https://tropical-couch-e39.notion.site/PPAP-7d12b4d0f9734282861891b037f78044)

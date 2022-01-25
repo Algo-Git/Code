@@ -17,3 +17,7 @@ kdy
 소트 게임
 - [카카오머니](https://tropical-couch-e39.notion.site/c12262545f02485e8ce00933dab2c777)
 - [PPAP](https://tropical-couch-e39.notion.site/PPAP-7d12b4d0f9734282861891b037f78044)
+
+daeun
+- [PPAP](https://hoonycode.notion.site/PPAP-5931492955684001bdf1927f4dea06ae)
+- [소트게임](https://hoonycode.notion.site/64e748ce2c0b4164a3a01496500b3406)

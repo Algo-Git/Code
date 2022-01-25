@@ -9,3 +9,5 @@
 
 ---
 
+daeun
+- [이모티콘](https://hoonycode.notion.site/026ea16cc4e74a1f8d6ed42491be96aa)

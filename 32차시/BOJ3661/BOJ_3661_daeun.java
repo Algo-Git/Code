@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class BOJ_3661_생일선물 {
+public class BOJ_3661_daeun {
 
     public static void main(String[] args) throws Exception {
 
@@ -46,31 +46,29 @@ public class BOJ_3661_생일선물 {
             Collections.sort(list); // 오름차순 정렬
 
             int nbbang = p / n;    // 선물 금액의 1/n
-            int nbbang_copy = nbbang;   // 남은 사람들 끼리의 n 빵
-            int p_copy = p;
             int n_copy = n;
             for (int i = 0; i < n; i++) {
                 Data cur = list.get(i);
                 n_copy--;
-                if (cur.money < nbbang_copy) {
+                if (cur.money < nbbang) {
                     res.get(cur.num).money += cur.money;
-                    p_copy -= cur.money;
-                    nbbang_copy = p_copy / n_copy;
+                    p -= cur.money;
+                    nbbang = p / n_copy;
                 } else {
-                    res.get(cur.num).money += nbbang_copy;
-                    p_copy -= nbbang_copy;
+                    res.get(cur.num).money += nbbang;
+                    p -= nbbang;
                 }
                 if (n_copy == 0) break;
             }
 
-            if(p_copy != 0) {
+            if(p != 0) {
                 for (int i = n - 1; i >= 0; i--) {
                     Data cur = list.get(i);
                     if (res.get(cur.num).money + 1 <= cur.money) {
                         res.get(cur.num).money++;
-                        p_copy--;
+                        p--;
                     }
-                    if (p_copy == 0) break;
+                    if (p == 0) break;
                     if (i == 0) i = n;
                 }
             }

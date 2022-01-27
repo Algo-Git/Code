@@ -20,3 +20,10 @@ HoonyCode
 - [이모티콘](https://hoonycode.notion.site/c0030f16e3e74e489e54317359b98d33)
 - [비드맨](https://hoonycode.notion.site/00848c1f58e447f68598a0ca3daead50)
 - [생일선물](https://hoonycode.notion.site/63250702a103479a92e54b011f42b448)
+
+---
+kdy  
+
+- [이모티콘](https://tropical-couch-e39.notion.site/290364553d164a8ba32c6cacdfddb230)
+- [비드맨](https://tropical-couch-e39.notion.site/a2e60319c9f840398851d85d59c58e66)
+- [생일선물](https://tropical-couch-e39.notion.site/3bada7a4115d4ccfb825b025b16b68fa)

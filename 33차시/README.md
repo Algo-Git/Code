@@ -8,3 +8,6 @@
 | [백준](https://www.acmicpc.net/) | [15927](https://www.acmicpc.net/problem/15927) | 회문은 회문아니야!! | 골드5 |
 
 ---
+
+daeun
+- [로또](https://hoonycode.notion.site/7a57a9b574f541e8a6f367ce0a26ece7)

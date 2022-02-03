@@ -8,11 +8,9 @@
 | [백준](https://www.acmicpc.net/) | [19590](https://www.acmicpc.net/problem/19590) | 비드맨 | 골드2 |
 
 ---
-
 daeun
+- [생일 선물](https://hoonycode.notion.site/af999996c2314395aa1f01f4720477f4)
 - [이모티콘](https://hoonycode.notion.site/026ea16cc4e74a1f8d6ed42491be96aa)
-
-
 
 ---
 HoonyCode  

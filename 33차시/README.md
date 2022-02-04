@@ -11,3 +11,5 @@
 
 daeun
 - [로또](https://hoonycode.notion.site/7a57a9b574f541e8a6f367ce0a26ece7)
+- [점프와 순간 이동](https://hoonycode.notion.site/e50368d984b840c7856dc2517fd0a779)
+- [회문은 회문아니야!!](https://hoonycode.notion.site/c04accd9c0b241b4affa1dff9a64eb96)

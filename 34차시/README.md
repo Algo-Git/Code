@@ -17,4 +17,4 @@ kdy
 
 daeun
 - [LCS](https://hoonycode.notion.site/LCS-8eabe7ac76614049b409ae9c0b62a4c7)
-- [마피아]
+- [마피아](https://hoonycode.notion.site/fb19788e7db8490fa36793ae26c3d2a6)

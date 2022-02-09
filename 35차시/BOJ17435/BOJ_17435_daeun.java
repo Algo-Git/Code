@@ -11,8 +11,7 @@ public class BOJ_17435_합성함수와쿼리 {
         int[][] arr = new int[20][m + 1];
         StringTokenizer st = new StringTokenizer(br.readLine());
         for (int i = 1; i <= m; i++) {
-            f[i] = Integer.parseInt(st.nextToken());
-            arr[0][i] = f[i];
+            arr[0][i] = Integer.parseInt(st.nextToken());
         }
 
         // 행 : 0 ~ 19 (최대 2^19 == 524,288)
@@ -33,21 +32,11 @@ public class BOJ_17435_합성함수와쿼리 {
 
             // 만약 n = 6 이면, 2 + 4 => 마지막인 4의 이동번호가 답이 되어야하므로 2진수로 변환
             String s = Integer.toBinaryString(n);   // 2진수로 변환
-            int res = 0;
-            int idx = x;    // 바꿀 이동번호 (인덱스)
             for (int j = s.length() - 1; j >= 0; j--) {
-                if (s.charAt(j) == '0') {
-                    continue;
-                } else {
-                    res += (int) Math.pow(2, s.length() - 1 - j);   // 6을 만들기 위해 +2, +4
-                    if (res == n) { // 6을 찾으면 출력
-                        sb.append(arr[s.length() - 1 - j][idx]).append("\n");
-                        break;
-                    }
-                    idx = arr[s.length() - 1 - j][idx]; // 이동 번호 변경
-                }
-
+                if (s.charAt(j) == '0') continue;
+                x = arr[s.length() - 1 - j][x]; // 이동 번호 변경
             }
+            sb.append(x).append('\n');
         }
 
         System.out.print(sb);

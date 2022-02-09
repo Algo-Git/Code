@@ -12,3 +12,11 @@
 daeun
 - [삼각형으로 자르기](https://hoonycode.notion.site/e63ff25c789b471486a10ca4784b4291)
 - [2,147,483,648 게임](https://hoonycode.notion.site/2-147-483-648-f2cc9077e938467ea92fe7588291ee44)
+
+
+---
+
+HoonyCode
+- [삼각형으로 자르기](https://hoonycode.notion.site/63611f13a89e46f3bbea38bb83cb39eb)
+- [2,147,483,648 게임](https://hoonycode.notion.site/2-147-483-648-36b8ddd994774fd1a0441d6ccd8eb590)
+- [함성함수와 쿼리](https://hoonycode.notion.site/37a79cecf2ae4ae4b5469c17c3236225)

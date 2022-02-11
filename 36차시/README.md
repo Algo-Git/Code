@@ -10,3 +10,10 @@
 | [백준](https://www.acmicpc.net/) | [24270](https://www.acmicpc.net/problem/24270) | 미니 버킷 리스트 | 골드4  |
 
 ---
+
+kdy
+- 게임
+- 미친 로봇
+- 숫자 놀이
+- [칙령](https://hoonycode.notion.site/63611f13a89e46f3bbea38bb83cb39eb)
+- [미니 버킷 리스트](https://tropical-couch-e39.notion.site/BOJ-24270-cd5e276625664df08c1814116bcf0387)

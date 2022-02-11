@@ -21,3 +21,11 @@ HoonyCode
 - [삼각형으로 자르기](https://hoonycode.notion.site/63611f13a89e46f3bbea38bb83cb39eb)
 - [2,147,483,648 게임](https://hoonycode.notion.site/2-147-483-648-36b8ddd994774fd1a0441d6ccd8eb590)
 - [함성함수와 쿼리](https://hoonycode.notion.site/37a79cecf2ae4ae4b5469c17c3236225)
+
+
+---
+
+kdy
+- [삼각형으로 자르기](https://tropical-couch-e39.notion.site/005c2a79648b4d5592d70e5a6f66d97a)
+- [2,147,483,648 게임](https://tropical-couch-e39.notion.site/2-147-483-648-732a99b469254981b2caece1f39ccca7)
+- 함성함수와 쿼리

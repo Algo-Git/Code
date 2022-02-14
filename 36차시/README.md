@@ -12,8 +12,8 @@
 ---
 
 kdy
-- 게임
-- 미친 로봇
-- 숫자 놀이
-- [칙령](https://hoonycode.notion.site/63611f13a89e46f3bbea38bb83cb39eb)
+- [게임](https://tropical-couch-e39.notion.site/1072-a2fc1acf82fe4dc6bda44b5b3c78bc47)
+- [미친 로봇](https://tropical-couch-e39.notion.site/1405-6e6495c3b5ac4a1eb86ce732e0cf7d28)
+- [숫자 놀이](https://tropical-couch-e39.notion.site/2777-3749164ea61e4da3af5660468cdd314b)
+- [칙령](https://tropical-couch-e39.notion.site/BOJ-12875-845271e3eae74477b3a1c5ed897483d9)
 - [미니 버킷 리스트](https://tropical-couch-e39.notion.site/BOJ-24270-cd5e276625664df08c1814116bcf0387)

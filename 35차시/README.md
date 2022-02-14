@@ -29,3 +29,11 @@ kdy
 - [삼각형으로 자르기](https://tropical-couch-e39.notion.site/005c2a79648b4d5592d70e5a6f66d97a)
 - [2,147,483,648 게임](https://tropical-couch-e39.notion.site/2-147-483-648-732a99b469254981b2caece1f39ccca7)
 - 함성함수와 쿼리
+
+----
+
+Junyeong
+
+- [삼각형으로 자르기](https://2106.notion.site/BOJ1198-2e1302a289a14beebeed8ab2be3158f4)
+- [2,147,483,648 게임](https://2106.notion.site/BOJ23796-2-147-483-648-6e97bb0386e44c8aab4ccaf068bd6a80)
+- [함성함수와 쿼리](https://2106.notion.site/BOJ17435-7866ebe174c54d039bbac58a7ca3e37f)

@@ -27,3 +27,12 @@ HoonyCode
 - [숫자 놀이](https://hoonycode.notion.site/44d68529387049f480a0204b86a04412)
 - [칙령](https://hoonycode.notion.site/88102a09017041f1b0d92fbd7f566e2b)
 - [미니 버킷 리스트](https://hoonycode.notion.site/e67105e54403417297b11ef2d5377f76)
+
+--------
+
+junyeong
+
+- [게임](https://2106.notion.site/BOJ1072-9d2fe375011c47d5a64728efc68b6493)
+- [미친 로봇](https://2106.notion.site/BOJ1405-1026b744217e433e8c5e65a36adab873)
+- [숫자 놀이](https://2106.notion.site/BOJ2777-fd6e4559bc754a56ab7a5558e68195b1)
+- [칙령](https://2106.notion.site/BOJ12875-3d719a10779f4f9fa1042cbacc17b02b)

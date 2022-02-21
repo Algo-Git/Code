@@ -36,3 +36,12 @@ junyeong
 - [미친 로봇](https://2106.notion.site/BOJ1405-1026b744217e433e8c5e65a36adab873)
 - [숫자 놀이](https://2106.notion.site/BOJ2777-fd6e4559bc754a56ab7a5558e68195b1)
 - [칙령](https://2106.notion.site/BOJ12875-3d719a10779f4f9fa1042cbacc17b02b)
+
+---
+
+daeun
+- [게임](https://hoonycode.notion.site/1002d54e2c1c4d2a873219da51e5e113)
+- [미친 로봇](https://hoonycode.notion.site/ef447b478e414f1ea3d5a32b60c498c9)
+- [숫자 놀이](https://hoonycode.notion.site/40b79708b5974c55b63e8a9efcd62d84)
+- [칙령](https://hoonycode.notion.site/c6697f0c0b4b4b278e9ea1a6654d16b4)
+- [미니 버킷 리스트](https://hoonycode.notion.site/784b0ac10a8d491cbc96af3e6aa6edf9)

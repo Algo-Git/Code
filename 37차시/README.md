@@ -22,3 +22,12 @@ junyeong
 - [평범한 배낭](https://2106.notion.site/BOJ12865-c18aa783491341f99de2fb574d884c50)
 - [인구 이동](https://2106.notion.site/BOJ16234-e144e31e0da94a20aaab8824bd130687)
 - [달나라 토끼를 위한 구매대급 지불 도우미](https://2106.notion.site/BOJ17212-543997e0184c4f1993f2471dde424c48)
+
+---
+
+kdy
+
+- [평범한 배낭](https://tropical-couch-e39.notion.site/BOJ-12865-c512e91b5e734d0781bdbaaf76de2f38)
+- [인구 이동](https://tropical-couch-e39.notion.site/BOJ-16234-f25878708e03411aa7dc908f8d3814da)
+- [달나라 토끼를 위한 구매대급 지불 도우미](https://tropical-couch-e39.notion.site/BOJ-17212-4b2ee9a41b594f39bbee58640e3a1182)
+- [좀비 떼가 기관총 진지에도 오다니](https://tropical-couch-e39.notion.site/BOJ-19644-383053bf0dc142ebb655cd1e019d0712)

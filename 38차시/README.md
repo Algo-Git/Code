@@ -7,3 +7,8 @@
 | [백준](https://www.acmicpc.net/) | [16568](https://www.acmicpc.net/problem/16568) | 엔비스카의 영혼 | 실버1 |
 | [백준](https://www.acmicpc.net/) | [2013](https://www.acmicpc.net/problem/2013) | 선그리기 | 골드4  |
 | [백준](https://www.acmicpc.net/) | [14888](https://www.acmicpc.net/problem/14888) | 연산자 끼워넣기| 실버 1  |
+
+---
+
+daeun
+- [연산자 끼워넣기](https://hoonycode.notion.site/a4af00e9d09648338c83889e1c816037)

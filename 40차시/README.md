@@ -1,4 +1,4 @@
-# 39차시
+# 40차시
 #### 2022/03/03(목)~2022/03/07(월)
 
 |               출처               |                   문제 번호                    |     문제 이름      | 난이도 |
@@ -10,4 +10,6 @@
 
 ---
 
- 
+daeun
+- [기능개발](https://hoonycode.notion.site/20bc3ce1a313439682637e28c3b4ef36)
+- [프린터](https://hoonycode.notion.site/ff265d3c01a1490ba6e350671daba500)

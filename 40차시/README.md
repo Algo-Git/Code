@@ -14,3 +14,4 @@ daeun
 - [기능개발](https://hoonycode.notion.site/20bc3ce1a313439682637e28c3b4ef36)
 - [프린터](https://hoonycode.notion.site/ff265d3c01a1490ba6e350671daba500)
 - [다리를 지나는 트럭](https://hoonycode.notion.site/28ec4ce47a6d45e3ac6a199ea9226191)
+- [주식가격](https://hoonycode.notion.site/a1e38041994c4340afc44482d055b418)

@@ -24,3 +24,12 @@ junyeong
 - [프린터](https://2106.notion.site/PG-4885e98e773443cba4b8a58549a47231)
 - [다리를 지나는 트럭](https://2106.notion.site/PG-6f73c7b5554d47ca885f8605bfcf922d)
 - [주식가격](https://2106.notion.site/PG-ac78b7866a1b4008b4fa1245c1db578f)
+
+------------
+
+kdy
+
+- [기능개발](https://tropical-couch-e39.notion.site/PRO-42586-ccb7bf04acf74a51bdb44deb040aeb25)
+- [프린터](https://tropical-couch-e39.notion.site/PRO-42587-8ea48c2734104d2d9ae9844386a47c5f)
+- [다리를 지나는 트럭](https://tropical-couch-e39.notion.site/PRO-42583-ac58e3a23eb94a48a114264ef5bebdf3)
+- [주식가격](https://tropical-couch-e39.notion.site/PRO-42584-67ade597def540bca7d426b05d85fe8a)

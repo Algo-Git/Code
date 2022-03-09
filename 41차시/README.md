@@ -13,3 +13,12 @@ daeun
 - [더 맵게](https://hoonycode.notion.site/b1290b12e17c41fab521d56c726ac668)
 - [디스크 컨트롤러](https://hoonycode.notion.site/72da701d2de84aaca246452ac47c2659)
 - [이중우선순위큐](https://hoonycode.notion.site/03ef3a0827e343f38c3ae24fe044fc34)
+
+-------
+
+junyeong
+
+- [더 맵게](https://2106.notion.site/PG-2dd63ad046f54154807fc4f7fba57233)
+- [디스크 컨트롤러](https://2106.notion.site/PG-89cf5e6fd81f4f439816086d5c4ab4e6)
+- [이중우선순위큐](https://2106.notion.site/PG-14975e23927c48f9a675f40485ec4276)
+

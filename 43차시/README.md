@@ -11,3 +11,6 @@
 
 ---
 
+daeun
+- [모의고사](https://hoonycode.notion.site/464b8034a5b04e86a98699f76b5cc97c)
+- [소수 찾기](https://hoonycode.notion.site/1b7e85a457d94f8fa398a066e1726fff)

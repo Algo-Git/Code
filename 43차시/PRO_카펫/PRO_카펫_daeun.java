@@ -18,7 +18,7 @@ public class PRO_42842_카펫 {
             while(true){
                 quo = (double)total / div;  // brown 개수와 같은 몫, 나눌수를 찾아야하므로 double로
                 // brown 개수는 (가로*2 + 세로*2 - 4)
-                if(((int)quo << 1) + (div << 1) - 4 == brown){ // brown 개수와 같은 몫(가로)와 나눈수(세로)일 때
+                if(quo * 2 + (div << 1) - 4 == brown){ // brown 개수와 같은 몫(가로)와 나눈수(세로)일 때
                     answer[0] = (int)quo;
                     answer[1] = div;
                     break;

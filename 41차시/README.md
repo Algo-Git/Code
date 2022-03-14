@@ -22,3 +22,10 @@ junyeong
 - [디스크 컨트롤러](https://2106.notion.site/PG-89cf5e6fd81f4f439816086d5c4ab4e6)
 - [이중우선순위큐](https://2106.notion.site/PG-14975e23927c48f9a675f40485ec4276)
 
+-------
+
+kdy
+
+- [더 맵게](https://tropical-couch-e39.notion.site/PRO-42626-b3c40c27e1fe4468872304d3dbd35192)
+- [디스크 컨트롤러](https://tropical-couch-e39.notion.site/PRO-42627-477e211aea76432489e65c6820e885c0)
+- [이중우선순위큐](https://tropical-couch-e39.notion.site/PRO-42628-abdc35b8d8ce4801a40c6f6ae65ba247)

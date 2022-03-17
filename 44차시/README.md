@@ -8,6 +8,7 @@
 | [프로그래머스](https://programmers.co.kr/) | [42842](https://programmers.co.kr/learn/courses/30/lessons/42861) | 섬 연결하기 | level 3 |
 
 
-
 ---
 
+daeun
+- [큰 수 만들기](https://hoonycode.notion.site/a12327908dd14d9a8d4bd59d8945632c)

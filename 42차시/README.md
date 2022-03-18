@@ -24,3 +24,13 @@ junyeong
 - [가장 큰 수](https://2106.notion.site/PG-39984e4d5ef74a9081aa8e9e95d34eb0)
 - [H-Index](https://2106.notion.site/PG-H-Index-59e5b72a02dd422cadbae6321b133b72)
 - [체육복](https://2106.notion.site/PG-399bbab957bb4a8bb8d241a73bdbd67e)
+
+------
+
+kdy
+
+- [K번째수](https://tropical-couch-e39.notion.site/PRO-42748-K-e324ca866a6940b4bfd68e8d22462344)
+- [가장 큰 수](https://tropical-couch-e39.notion.site/PRO-42746-f25ad00f16654d64bff8255b25f95304)
+- [H-Index](https://tropical-couch-e39.notion.site/PRO-42747-H-Index-4f4a88efec9c4f5dab16a1b65f7a3aa3)
+- [체육복](https://tropical-couch-e39.notion.site/PRO-42862-1907022e934e4ac8b148ef83109d5008)
+

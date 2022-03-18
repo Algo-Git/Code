@@ -27,3 +27,11 @@ HoonyCode
 - [카펫](https://hoonycode.notion.site/2a4d5cf5b4b6433db308749d9a369bf4)
 - [조이스틱](https://hoonycode.notion.site/1bdda685628440fa8386934e8bb694b9)
 
+---
+
+kdy
+
+- [모의고사](https://tropical-couch-e39.notion.site/PRO-42840-1c5e9a0e5f1646ca8d608e3c7b990209)
+- [소수 찾기](https://tropical-couch-e39.notion.site/PRO-42839-86e1cca83dfc4cfd86385c6a8e702049)
+- [카펫](https://tropical-couch-e39.notion.site/PRO-42842-3cef197e72a949c9a4ccf26b2fe5517a)
+- [조이스틱](https://tropical-couch-e39.notion.site/PRO-42860-2b2900b5930d4d54a22b182378d00ad2)

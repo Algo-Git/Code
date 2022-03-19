@@ -13,6 +13,7 @@
 daeun
 - [큰 수 만들기](https://hoonycode.notion.site/a12327908dd14d9a8d4bd59d8945632c)
 - [구명보트](https://hoonycode.notion.site/a20451a62cd443b6b81202ea1c0ee8ca)
+- [섬 연결하기](https://hoonycode.notion.site/b2c606af02cc474e851c242f48813658)
 
 ---
 

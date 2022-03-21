@@ -19,6 +19,6 @@ daeun
 
 kdy
 - [큰 수 만들기](https://tropical-couch-e39.notion.site/PRO-42883-2b7f9787749b4a5a8a4fb91ede427452)
-- 구명보트
+- [구명보트](https://tropical-couch-e39.notion.site/PRO-42885-48061555427c4a9b915053614bdbc374)
 - [섬 연결하기](https://tropical-couch-e39.notion.site/PRO-42861-cdd6d5cc21d44837b8430b3abacf8923)
 

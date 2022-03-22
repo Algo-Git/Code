@@ -12,4 +12,5 @@
 ---
 
 kdy
-- [단속카메라](https://tropical-couch-e39.notion.site/PRO-42884-f2720f52a7d14c9d8028a64db1445171)
+- [단속카메라](https://tropical-couch-e39.notion.site/PRO-42884-88600fb8dd3044c387eb92668af71665)
+- [정수 삼각형](https://tropical-couch-e39.notion.site/PRO-42884-f2720f52a7d14c9d8028a64db1445171)

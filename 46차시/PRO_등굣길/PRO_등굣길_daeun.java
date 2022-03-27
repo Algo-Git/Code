@@ -32,7 +32,7 @@ public class PRO_42898_등굣길 {
 
             for (int i = 2; i <= n; i++) {
                 for (int j = 2; j <= m; j++) {
-                    if (dp[i][j] == -1) continue;   // 장애물 위치이면 continye
+                    if (dp[i][j] == -1) continue;   // 장애물 위치이면 continue
                     if (dp[i - 1][j] != -1) dp[i][j] += dp[i - 1][j];   // 위가 장애물이 아니면
                     if (dp[i][j - 1] != -1) dp[i][j] += dp[i][j - 1];   // 왼쪽이 장애물이 아니면
                     dp[i][j] = dp[i][j] % 1_000_000_007;    // 1_000_000_007 로 나눈 나머지

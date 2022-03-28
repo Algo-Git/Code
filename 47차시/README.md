@@ -12,3 +12,9 @@
 
 daye
 - [네트워크](https://tropical-couch-e39.notion.site/PRO-43162-9605717bea17456d9c69e73fe0d6cbbd)
+
+
+---
+daeun
+- [네트워크](https://hoonycode.notion.site/5f201f9292d943cf9f76a441acde833f)
+- [단어 변환](https://hoonycode.notion.site/3f786f9fdfa3463c903fa20bca4d7ac7)

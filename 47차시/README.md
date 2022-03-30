@@ -12,7 +12,7 @@
 
 daye
 - [네트워크](https://tropical-couch-e39.notion.site/PRO-43162-9605717bea17456d9c69e73fe0d6cbbd)
-- 단어 변환
+- [단어 변환](https://tropical-couch-e39.notion.site/PRO-43163-887748d9fe0d4433b0eec7aa5f33c3f7)
 - [여행경로](https://tropical-couch-e39.notion.site/PRO-43164-6218023685e64a4fa1e2eb554570cc68)
 
 

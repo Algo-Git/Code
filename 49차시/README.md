@@ -10,3 +10,5 @@
 
 ---
 
+daeun
+- [가장 먼 노드](https://www.notion.so/hoonycode/633a9ea0b75a4ae88cb68cd095963e00)

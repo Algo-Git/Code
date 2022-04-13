@@ -13,3 +13,4 @@
 daeun
 - [가장 먼 노드](https://www.notion.so/hoonycode/633a9ea0b75a4ae88cb68cd095963e00)
 - [순위](https://www.notion.so/hoonycode/a3675005e4b948d797de91b94c09c37a)
+- [방의 개수](https://www.notion.so/hoonycode/8d42023390a4437bbd3021425f4ef331)

@@ -18,12 +18,12 @@ public class BOJ_시계_HoonyCode {
             Data[] data = new Data[5];
             for (int i = 0; i < 5; i++) {
                 String[] sp = in[i].split(":");
-                data[i] = new Data(Integer.parseInt(sp[0]), Integer.parseInt(sp[1]));
+                data[i] = new Data(Integer.parseInt(sp[0]), Integer.parseInt(sp[1]), in[i]);
             }
 
             Arrays.sort(data);
 
-            sb.append(String.format("%02d:%02d", data[2].time, data[2].min)).append('\n');
+            sb.append(data[2].s).append('\n');
         }
 
         System.out.println(sb.toString());
@@ -32,11 +32,13 @@ public class BOJ_시계_HoonyCode {
     static class Data implements Comparable<Data> {
         int time;
         int min;
+        String s;
         double angle;
 
-        public Data(int time, int min) {
+        public Data(int time, int min, String s) {
             this.time = time;
             this.min = min;
+            this.s = s;
             solveAngle(time, min);
         }
 
@@ -44,16 +46,11 @@ public class BOJ_시계_HoonyCode {
             // 한칸은 6도
             // 360움직이면 -> 30 간다
             // 1분에 시침은 0.5도
-            if (time >= 12) time -= 12;
+            time %= 12;
             Double timeAngle = time * 30 + min * 0.5;
             Double minAngle = min * 6.0;
-            Double result;
 
-            if (timeAngle > minAngle) {
-                result = timeAngle - minAngle;
-            } else {
-                result = minAngle - timeAngle;
-            }
+            Double result = Math.abs(timeAngle - minAngle);
 
             this.angle = Math.min(360 - (double) result, result);
         }

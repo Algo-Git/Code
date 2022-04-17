@@ -13,4 +13,5 @@
 
 daeun
 - [팰린드롬 만들기](https://www.notion.so/hoonycode/884bde626f5d48b2892b34bc5222d20b)
+- [시계](https://www.notion.so/hoonycode/e1427c4d217e419b8cdeea6508ee2014)
 - [톱니바퀴](https://www.notion.so/hoonycode/0c3c8a77a017435989420ad4c42c6702)

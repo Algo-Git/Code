@@ -10,3 +10,9 @@
 
 
 ---
+
+kdy
+- [124 나라의 숫자](https://tropical-couch-e39.notion.site/PRO-12899-124-3cd1422d283a482ba30b2857f91efafe)
+- [문자열 압축](https://tropical-couch-e39.notion.site/PRO-60057-fd626c1961b14809976f914b892ca508)
+- [모두 0으로 만들기]()
+- [멀리 뛰기](https://tropical-couch-e39.notion.site/PRO-12914-638924dc207742ca873cc410a462b0cb)

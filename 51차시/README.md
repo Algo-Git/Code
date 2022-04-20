@@ -16,3 +16,7 @@ kdy
 - [문자열 압축](https://tropical-couch-e39.notion.site/PRO-60057-fd626c1961b14809976f914b892ca508)
 - [모두 0으로 만들기]()
 - [멀리 뛰기](https://tropical-couch-e39.notion.site/PRO-12914-638924dc207742ca873cc410a462b0cb)
+
+daeun
+- [문자열 압축](https://www.notion.so/hoonycode/74536db85d064d729a9deb6b832c3372)
+- [멀리 뛰기](https://www.notion.so/hoonycode/9131a1a15db54d28b7f654d51ea6a55e)

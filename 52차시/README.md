@@ -16,3 +16,9 @@ daeun
 - [세훈이의 선물가게](https://www.notion.so/hoonycode/b84a2c4447e042f781748521d488a078)
 - [근손실](https://www.notion.so/hoonycode/49a355a7dd734e24a23fd0956a94ef5c)
 - [도시 분할 계획](https://www.notion.so/hoonycode/cbcb369481ac4130989fa9655ea39e20)
+
+---
+kdy
+- [게리맨더링 2](https://tropical-couch-e39.notion.site/BOJ-17779-2-ba9398b0de5545498cf2f6b65eb4a33c)
+- [세훈이의 선물가게](https://tropical-couch-e39.notion.site/BOJ-17225-f16fdd8286834946a7dc53f251adf704)
+- [근손실](https://tropical-couch-e39.notion.site/BOJ-18429-176d4d4299574f068317a08d3bdea516)

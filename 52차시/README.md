@@ -13,6 +13,7 @@
 ---
 
 daeun
+- [게리맨더링 2](https://www.notion.so/hoonycode/2-315dbce96bc54930b1c77eae300f4ef4)
 - [세훈이의 선물가게](https://www.notion.so/hoonycode/b84a2c4447e042f781748521d488a078)
 - [근손실](https://www.notion.so/hoonycode/49a355a7dd734e24a23fd0956a94ef5c)
 - [도시 분할 계획](https://www.notion.so/hoonycode/cbcb369481ac4130989fa9655ea39e20)

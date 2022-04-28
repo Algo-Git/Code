@@ -9,4 +9,6 @@
 
 
 ---
-
+daeun
+- [주사위 굴리기 2](https://www.notion.so/hoonycode/2-e8ae8f02594a4ca59286b4291b3a77bf)
+- [퇴사](https://www.notion.so/hoonycode/6ceafde444c5488db6eb1c3ed70fb4c6)
